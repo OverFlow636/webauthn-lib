@@ -31,7 +31,7 @@
         "spomky-labs/cbor-php": "^1.1|^2.0",
         "symfony/process": "^3.0|^4.0|^5.0",
         "thecodingmachine/safe": "^1.1",
-        "web-auth/cose-lib": "self.version",
+        "web-auth/cose-lib": "^3.3",
         "web-auth/metadata-service": "self.version"
     },
     "autoload": {
