@@ -145,7 +145,7 @@ class Server
         $this->setMetadataStatementRepository($metadataStatementRepository);
     }
 
-    public function setMetadataStatementRepository(MetadataStatementRepository $metadataStatementRepository): self
+    public function setMetadataStatementRepository(?MetadataStatementRepository $metadataStatementRepository): self
     {
         $this->metadataStatementRepository = $metadataStatementRepository;
 
